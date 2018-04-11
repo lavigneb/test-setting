@@ -1,9 +1,0 @@
-<application>
-  <component name="PathMacrosImpl">
-    <macro name="PATH" value="/Volumes/Cegep 2/cours/_Conception Web III/npm/node_modules/pleeease-cli/bin" />
-    <ignoredMacro name="MESSAGE" />
-    <ignoredMacro name="FILE_PATH" />
-    <ignoredMacro name="LINE" />
-    <ignoredMacro name="COLUMN" />
-  </component>
-</application>
