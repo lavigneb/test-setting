@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="css" type="PLAIN_TEXT" />
+      <mapping pattern=".pleeeaserc" type="PLAIN_TEXT" />
+      <mapping pattern="option" type="PLAIN_TEXT" />
+      <mapping pattern="aaa" type="PLAIN_TEXT" />
+      <mapping pattern="pleeease" type="PLAIN_TEXT" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping ext="php" type="PLAIN_TEXT" />
+      <mapping ext="hpgl" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
+      <mapping ext="webm" type="PLAIN_TEXT" />
+      <mapping ext="ogv" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="htaccess" />
+    </extensionMap>
+  </component>
+</application>

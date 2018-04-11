@@ -1,0 +1,10 @@
+<application>
+  <component name="PrintSettings">
+    <option name="printScope" value="1" />
+    <option name="PAPER_SIZE" value="Engineering A" />
+    <option name="FONT_NAME" value="Serif" />
+    <option name="PRINT_LINE_NUMBERS" value="false" />
+    <option name="DRAW_BORDER" value="false" />
+    <option name="FOOTER_HEADER_FONT_NAME" value="Serif" />
+  </component>
+</application>
