@@ -30,6 +30,14 @@
           <option name="url" value="https://lavigneb@bitbucket.org/timcw3/semaine01.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/benoit-lavigne/monrepo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="benoit-lavigne" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/EDOUARD/_Google-Drive/_Conception Web III/2018" />
