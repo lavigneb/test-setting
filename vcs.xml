@@ -42,6 +42,10 @@
           <option name="url" value="https://benoit-lavigne@bitbucket.org/benoit-lavigne/monrepo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:benoit-lavigne/monrepo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/EDOUARD/_Google-Drive/_Conception Web III/2018" />
