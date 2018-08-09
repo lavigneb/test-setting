@@ -54,6 +54,10 @@
           <option name="url" value="https://github.com/riklewis/optimisation-course.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/zellwk/gulp-starter-csstricks.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/EDOUARD/_Google-Drive/_Conception Web III/2018" />
